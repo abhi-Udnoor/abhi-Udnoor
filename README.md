@@ -25,7 +25,7 @@ My primary interests include e-commerce analytics, commercial performance, custo
 ## 🛠️ Technical Skills
 
 |         Category       | Technologies                |
-|________________________|_____________________________|
+|________________________|_____________________________
 | Database & Querying    | Microsoft SQL Server, T-SQL |
 | Programming & Analysis | Python, Pandas, NumPy       |
 | Data Visualisation     | Matplotlib, Power BI        |
