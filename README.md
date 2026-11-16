@@ -1,4 +1,4 @@
-##  Hi, I'm Abhijeet 👋
+##  Hi, I'm Abhi 👋
 
 ### Data analytics enthusiast | SQL Server | Python | Power BI
 
