@@ -14,9 +14,9 @@ My primary interests include e-commerce analytics, commercial performance, custo
 
 ## 🧑‍💻 About Me
 
-- 🎯 Currently targeting: Data Analyst / BI Analyst opportunities.
-- 📊 Interested in: E-commerce, Retail, Operations and Business Intelligence.
-- 🛠️ Working with SQL Server, Python, Pandas and Power BI.
+- 🎯 Targeting Junior Data Analyst, Junior BI Analyst and Reporting Analyst opportunities.
+- 📊 Interested in: E-commerce, Retail, Commercial and Operations Analytics and Business Intelligence.
+- 🛠️ Working with SQL Server, Python, Pandas, Power BI and excel.
 - 📚 Continuously developing my data analytics and business problem-solving skills.
 - 🌍 Based in Prague, Czechia.
 
@@ -48,41 +48,40 @@ An end-to-end analytics project investigating order fulfilment efficiency, deliv
 
 *Status: In progress*
 
----
+Key objectives:
 
-### 2. [Future Project Name]
+Evaluate order fulfilment efficiency.
 
-**Domain:** [Business Domain]
+Investigate delivery delays and on-time performance.
 
-**Tools:** [Technologies]
+Identify seller and regional performance differences.
 
-[Briefly explain the business problem and the analytical outcome.]
+Analyse the relationship between delivery outcomes and customer satisfaction.
 
-[View Project Repository →](PROJECT_REPOSITORY_URL)
+Develop evidence-based business recommendations.
 
----
+📌 Explore Project Repository
 
-## 📫 Connect With Me
+Status: In progress
 
-- LinkedIn: [YOUR LINKEDIN URL]
-- Portfolio: [YOUR PORTFOLIO URL]
-- Email: [YOUR PROFESSIONAL EMAIL]
+📚 Current Learning Focus
 
----
+Developing end-to-end SQL analytics workflows.
+
+Improving Python-based data analysis and statistical investigation.
+
+Strengthening Power BI data modelling and dashboard development.
+
+Building reproducible, well-documented analytics projects.
+
+Improving business storytelling and data-driven decision-making.
+
+📫 Connect With Me
+
+GitHub: abhi-Udnoor
+
+Location: Prague, Czechia
+
+LinkedIn: Coming soon
 
 *Interested in opportunities where data analysis can help solve meaningful business problems.*
-
-<!--
-**abhi-Udnoor/abhi-Udnoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
